@@ -161,7 +161,7 @@ void wcgCube::SetupCube( /*int icube, float x0, float y0, float z0, float dx, fl
 				{
 					for (int k = 0; k < 3; k++)
 					{
-						tempColor[index++] = mColors[6][k];
+						tempColor[index++] = mColors[6][k+1];
 					}
 				}
 			}

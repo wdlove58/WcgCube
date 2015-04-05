@@ -32,7 +32,7 @@ GLfloat vGreen[] = {0, 1, 0, 1};
 
 GLfloat   mMouseX;
 GLfloat   mMouseY;
-bool      isStartTrackBall = false;
+bool      isStartTrack = false;
 
 void SetupRC()
 {
